@@ -1,0 +1,12 @@
+Win
+PlayerPath?
+C:/Users/Eric/Desktop/skatexl mods/Hamdle Test Park/AssetBundles/la river 1
+SceneListBegin?
+Assets/Scenes/LA River 1.unity
+SceneListEnd?
+8c328a0ffa03c1bcb9332bb39f4f8453 Unity.RenderPipelines.Core.Runtime.dll:UnityEngine.Experimental.Rendering.Volume
+60f6511616840334557eb6eac26736bf Unity.RenderPipelines.HighDefinition.Runtime.dll:UnityEngine.Experimental.Rendering.HDPipeline.VisualEnvironment
+4d51d5ccf37d2089bdfe827617b784ff Unity.RenderPipelines.Core.Runtime.dll:UnityEngine.Experimental.Rendering.VolumeProfile
+0daac49601f88acfeb3f6eb25235be09 Unity.RenderPipelines.HighDefinition.Runtime.dll:UnityEngine.Experimental.Rendering.HDPipeline.HDRISky
+16e79f3ae2957e866ec1373ffaeca16a Unity.RenderPipelines.HighDefinition.Runtime.dll:UnityEngine.Experimental.Rendering.AdditionalShadowData
+1a09bbbbe3168e7a6937cde5739de3d7 Unity.RenderPipelines.HighDefinition.Runtime.dll:UnityEngine.Experimental.Rendering.HDPipeline.HDAdditionalLightData
